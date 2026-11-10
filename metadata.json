@@ -1,0 +1,6 @@
+{
+  "name": "CLOFA ZANCAN - Luxury Timepieces",
+  "description": "Discover exceptional luxury timepieces crafted with Swiss precision and extraordinary design by CLOFA ZANCAN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
